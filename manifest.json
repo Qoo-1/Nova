@@ -1,0 +1,9 @@
+{
+  "name": "Nova · 铃兰小手机",
+  "short_name": "Nova",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#f5f7f4",
+  "lang": "zh-CN"
+}
